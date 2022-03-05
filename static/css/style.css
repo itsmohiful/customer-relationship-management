@@ -1,0 +1,65 @@
+@import url("./fonts.css");
+@import url("./varriable.css");
+/*=========*/
+/*# sourceMappingURL=style.css.map */
+
+body{
+    background-color: #ebeff5;
+}
+
+.text-logo{
+    color:aqua !important;
+}
+.text-logo:hover{
+    color:rgb(0, 218, 218) !important;
+}
+
+.large-text{
+    color:#1B9CFC;
+}
+
+#total_order{
+    background-color: #FD7272;
+}
+#total_order:hover{
+    background-color: #f78282;
+}
+
+#total_customer{
+    background-color: #48dbfb;
+}
+
+#total_customer:hover{
+    background-color: #36d6fa;
+}
+
+#orders-delivered{
+    background-color: #6c5ce7;
+}
+#orders-delivered:hover{
+    background-color: #5a48e0;
+}
+
+#orders-pending{
+    background-color: #00cec9;
+}
+
+#orders-pending:hover{
+    background-color: #1cd1ced7;
+}
+
+.btn-customers{
+    background-color: #5c5ac2;
+}
+
+.btn-customers:hover{
+    background-color: #37368b;
+}
+
+.btn-products{
+    background-color: #34ace0;
+}
+
+.btn-products:hover{
+    background-color: #095a7c;
+}

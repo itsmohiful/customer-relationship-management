@@ -1,0 +1,39 @@
+@import url("./fonts.css");
+@import url("./varriable.css");
+/*=========*/
+/*# sourceMappingURL=style.css.map */
+
+body{
+    background-color: #ebeff5;
+}
+
+.text-logo{
+    color:aqua !important;
+}
+.text-logo:hover{
+    color:rgb(0, 218, 218) !important;
+}
+
+#total_order{
+    background-color: #ff9ff3 !important;
+}
+
+#total_customer{
+    background-color: #48dbfb !important;
+}
+
+
+#orders-delivered{
+    background-color: #6c5ce7 !important;
+}
+
+#orders-pending{
+    background-color: #00cec9 !important;
+}
+
+.btn-customers{
+    background-color: #16a085 !important;
+}
+.btn-products{
+    background-color: #1abc9c !important;
+}

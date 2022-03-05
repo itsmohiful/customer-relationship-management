@@ -1,0 +1,18 @@
+@font-face{
+    font-family:"Roboto";
+    src:url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face{
+    font-family: "Lato";
+    src: url('../fonts/Lato/Lato-Regular.ttf');
+}
+
+@font-face{
+    font-family: "Princess_Sofia";
+    src: url('../fonts/Princess_Sofia/PrincessSofia-Regular.ttf');
+}
+
+@font-face{
+    font-family: "Gugi";
+    src: url('../fonts/Gugi/Gugi-Regular.ttf');
+}

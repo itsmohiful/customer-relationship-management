@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+:root{
+    --roboto:"Roboto",cursive;
+    --lato:"Lato",cursive;
+    --princess-sofia:"Princess_Sofia",cursive;
+    --sofia:"Sofia",cursive;
+    --gugi:"Gugi",cursive;
+    --primary-color:#ec5b53;
+    --secondary-color:#2BBBAD;
+    --text-color:#000A2D;
+    --high-color:#FEF8F8;
+    --gradient-color:linear-gradient(90deg,#4458dc 0%,#854fee 100%);
+
+}

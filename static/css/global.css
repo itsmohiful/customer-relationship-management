@@ -1,0 +1,35 @@
+@import url('./varriable.css');
+.uppercase{
+    text-transform: uppercase !important;
+}
+.roboto{
+    font-family: var(--roboto);
+}
+
+.bg-1{
+    background:var(--primary-color);
+}
+.active{
+    color:#f14239 !important;
+}
+
+button:hover,
+button:active,
+button:focus,
+.btn:active,
+.btn:hover,
+.btn{
+    outline: none !important;
+}
+
+
+/* ===animation====
+.form-section,
+.contact-side{
+    opacity: 0;
+}
+
+.form-section .animated,
+.contact-side .animated{
+    opacity: 1;
+} */

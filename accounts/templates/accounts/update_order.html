@@ -1,0 +1,21 @@
+{% extends 'accounts/main.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <div class="card card-body">
+                    <form method="POST" action="">
+                        {% csrf_token %}
+                        {% for forms in form %}
+                            <h6 class="">{{forms.name}} : {{forms}}</h6> <br>
+                        {% endfor %}
+                        <input class="btn btn-primary" type="submit" name="submit">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
